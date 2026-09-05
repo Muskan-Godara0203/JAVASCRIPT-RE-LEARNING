@@ -1,4 +1,3 @@
-````markdown
 # JavaScript Re-Learning Journey
 
 This repository documents my journey of relearning JavaScript from the fundamentals and building a strong foundation for frontend and full-stack development.
@@ -7,11 +6,11 @@ I have previously studied JavaScript as part of my college coursework, but I wan
 
 The goal is to move from:
 
-> **"I have studied JavaScript."**
+**"I have studied JavaScript."**
 
 to:
 
-> **"I can confidently build with JavaScript."**
+**"I can confidently build with JavaScript."**
 
 ---
 
