@@ -21,4 +21,9 @@ console.log(movies2.length);
 // Exercise: Movie Array
 // Task: Make an array of 5 movies. Log the first, the last, and add a 6th.
 
-let movies = ["Inception", "Interstellar", "The Dark Knight", "Parasite", ]
+let movies = ["Inception", "Interstellar", "The Dark Knight", "Parasite", "Whiplash"];
+console.log(movies[0]);
+console.log(movies[movies.length-1]);
+movies.push("The matrix");
+console.log(movies[movies.length-1]);
+console.log(movies);
